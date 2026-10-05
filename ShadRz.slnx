@@ -1,2 +1,11 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShadRz.CLI/ShadRz.CLI.csproj" />
+    <Project Path="src/ShadRz.Components/ShadRz.Components.csproj" />
+    <Project Path="src/ShadRz.Docs.Web/ShadRz.Docs.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ShadRz.CLI.Tests/ShadRz.CLI.Tests.csproj" />
+    <Project Path="tests/ShadRz.Components.Tests/ShadRz.Components.Tests.csproj" />
+  </Folder>
 </Solution>
